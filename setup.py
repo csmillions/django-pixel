@@ -3,7 +3,7 @@ import django_pixel
 
 setup(
 	name = "cmsplugin-pixel",
-	version = cmsplugin_pixel.__version__,
+	version = django_pixel.__version__,
 	packages = find_packages(),
 
 	author = "Chris Modjeska",
